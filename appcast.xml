@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Timbre</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 30 Sep 2026 17:30:25 -0500</pubDate>
+            <sparkle:version>1790807114</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/srobbin/timbre-releases/releases/download/v0.1.0/Timbre-0.1.0.zip" length="11974955" type="application/octet-stream" sparkle:edSignature="rurbZtBVZfixLw+HIr3HP2PPX4V11aw4GuwiTqad9N3vHWRqlmjztwP4oeESC9I552V4vboJPg1sqZU2/asHAQ=="/>
+        <description><![CDATA[
+<h2>Timbre 0.1.0</h2>
+<p>First release for friends.</p>
+]]></description>
+</item>
+    </channel>
+</rss>
