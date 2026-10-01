@@ -3,15 +3,25 @@
     <channel>
         <title>Timbre</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 30 Sep 2026 17:30:25 -0500</pubDate>
-            <sparkle:version>1790807114</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Thu, 01 Oct 2026 14:48:00 -0500</pubDate>
+            <sparkle:version>1790883768</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/srobbin/timbre-releases/releases/download/v0.1.0/Timbre-0.1.0.zip" length="11974955" type="application/octet-stream" sparkle:edSignature="rurbZtBVZfixLw+HIr3HP2PPX4V11aw4GuwiTqad9N3vHWRqlmjztwP4oeESC9I552V4vboJPg1sqZU2/asHAQ=="/>
+            <enclosure url="https://github.com/srobbin/timbre-releases/releases/download/v0.2.0/Timbre-0.2.0.zip" length="12135835" type="application/octet-stream" sparkle:edSignature="mxN19BBJpfyELNslFCZaFaqZSvrbbz13ONG+9iMJX2AdpCbs+mNxC2moWrXEHrZmu6kmiEr0rsb+/2cx6tFkCQ=="/>
         <description><![CDATA[
-<h2>Timbre 0.1.0</h2>
-<p>First release for friends.</p>
+<h2>Timbre 0.2.0</h2>
+<p>Timbre is now one sound that can grow into a rack: describe a sound, flip through six ideas for it, and layer up to three more on top.</p>
+<ul>
+<li>All your sounds play together on one Live track; from the second sound it becomes an Instrument Rack with one chain each.</li>
+<li>Each sound has six ideas: step through them with the arrows, instantly.</li>
+<li>Four knobs shape the whole stack: Tone, Attack, Release and Space.</li>
+<li>Mute, solo, level and remove on every layered sound.</li>
+<li>A new start screen with example ideas to tap, and Surprise me (never drum kits).</li>
+<li>Timbre now lives in the menu bar: click its icon or press Control-Option-Command-T to show or hide it.</li>
+<li>Timbre no longer asks to record audio; the meter follows Live&#x27;s level.</li>
+<li>Sounds saved with 0.1 are not carried over, and Timbre asks you to quit Live once to update its Live script.</li>
+</ul>
 ]]></description>
 </item>
     </channel>
