@@ -3,19 +3,18 @@
     <channel>
         <title>Timbre</title>
         <item>
-            <title>0.2.1</title>
-            <pubDate>Thu, 01 Oct 2026 15:03:01 -0500</pubDate>
-            <sparkle:version>1790884669</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <title>0.2.2</title>
+            <pubDate>Thu, 01 Oct 2026 15:25:38 -0500</pubDate>
+            <sparkle:version>1790886026</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/srobbin/timbre-releases/releases/download/v0.2.1/Timbre-0.2.1.zip" length="12162984" type="application/octet-stream" sparkle:edSignature="pkv4bcW9dmccjzXcfgcSJuUpLEQ5SMgPvxaUSpe2BLkXMsrs58VWLSlG1JPPr9JuMlj316GAePMEQiNhe4mhDQ=="/>
+            <enclosure url="https://github.com/srobbin/timbre-releases/releases/download/v0.2.2/Timbre-0.2.2.zip" length="12163875" type="application/octet-stream" sparkle:edSignature="b+0IVXFAKyMuzB42ACUG51S/e+Cb8l4PP/oeo6SlYNRUKHeBaQPRSNecVHnmFUd6ADQW75VdoWWNHkf1IqT2BA=="/>
         <description><![CDATA[
-<h2>Timbre 0.2.1</h2>
-<p>Sounds arrive sooner, and volume follows your hand.</p>
+<h2>Timbre 0.2.2</h2>
+<p>The menu bar icon now opens Timbre&#x27;s menu.</p>
 <ul>
-<li>The first idea for a sound now lands in a few seconds; the rest fill in behind it while you play.</li>
-<li>The dots show all six places from the start, so nothing moves as ideas arrive, and you can flip through them straight away.</li>
-<li>Dragging a sound&#x27;s level is now smooth, with no lag in Live.</li>
+<li>Click the menu bar icon for Hide/Show Timbre, Show Log, Check for Updates and Quit.</li>
+<li>The menu shows which version of Timbre is running.</li>
 </ul>
 ]]></description>
 </item>
