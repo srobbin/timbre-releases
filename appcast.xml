@@ -3,18 +3,20 @@
     <channel>
         <title>Timbre</title>
         <item>
-            <title>0.2.2</title>
-            <pubDate>Thu, 01 Oct 2026 15:25:38 -0500</pubDate>
-            <sparkle:version>1790886026</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <title>0.3.0</title>
+            <pubDate>Fri, 02 Oct 2026 13:45:21 -0500</pubDate>
+            <sparkle:version>1790966547</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/srobbin/timbre-releases/releases/download/v0.2.2/Timbre-0.2.2.zip" length="12163875" type="application/octet-stream" sparkle:edSignature="b+0IVXFAKyMuzB42ACUG51S/e+Cb8l4PP/oeo6SlYNRUKHeBaQPRSNecVHnmFUd6ADQW75VdoWWNHkf1IqT2BA=="/>
+            <enclosure url="https://github.com/srobbin/timbre-releases/releases/download/v0.3.0/Timbre-0.3.0.zip" length="12656211" type="application/octet-stream" sparkle:edSignature="FA8Gjrir5coS2glLybrYxJpiGQLNevJUpFrophmBUsKbSX84Y7DlRSFgwe6q7X5PQ9Vw1sZIKOX7SuvWvaMmAQ=="/>
         <description><![CDATA[
-<h2>Timbre 0.2.2</h2>
-<p>The menu bar icon now opens Timbre&#x27;s menu.</p>
+<h2>Timbre 0.3.0</h2>
+<p>Timbre no longer needs Claude Code installed, and it can now run on ChatGPT as well as Claude.</p>
 <ul>
-<li>Click the menu bar icon for Hide/Show Timbre, Show Log, Check for Updates and Quit.</li>
-<li>The menu shows which version of Timbre is running.</li>
+<li>Sign in to Claude or ChatGPT from Timbre, through your browser</li>
+<li>Timbre fetches what it needs the first time you sign in</li>
+<li>Switch assistants or sign out from the menu bar</li>
+<li>With no assistant, Surprise me, flipping ideas and the mix still work</li>
 </ul>
 ]]></description>
 </item>
